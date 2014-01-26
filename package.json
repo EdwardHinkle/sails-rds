@@ -1,0 +1,15 @@
+{
+  "name": "sails-rds",
+  "version": "0.0.1",
+  "description": "Temporary implementation of rds until the real sails-rds is done.",
+  "main": "index.js",
+  "author": {
+    "name": "Dane Stuckel"
+  },
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc8",
+    "underscore": "~1.5.2",
+    "waterline-criteria": "*"
+  },
+  "readmeFilename": "README.md"
+}
